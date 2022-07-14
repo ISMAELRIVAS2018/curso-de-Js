@@ -1,5 +1,6 @@
 // 62. Parametros y Argumentos en Funciones
 
+<<<<<<< HEAD
 function sumar(a,b) {
     console.log(a + b );
 }
@@ -16,3 +17,9 @@ function saludar(nombre, apellido) {
 
 saludar('juan', 'De la torre')
 saludar();
+=======
+sumar();
+function sumar () {
+    console.log (2 + 2);
+}
+>>>>>>> 0ec0a4c817b57b9d4f15bf98c150dc0451ca4260

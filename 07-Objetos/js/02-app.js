@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//  Como Acceder a los valores de un objeto
+>>>>>>> 0ec0a4c817b57b9d4f15bf98c150dc0451ca4260
 const producto = {
     nombre: "Monitor 20 pulgadas",
     precio: 300,
