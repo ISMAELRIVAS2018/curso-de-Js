@@ -38,3 +38,5 @@ contenedorCard.appendChild(info);
 // Insertarlo en el HTML...
 const contenedor = document.querySelector('.hacer .contenedor-cards');
 contenedor.appendChild(contenedorCard); // al inicio info
+
+
